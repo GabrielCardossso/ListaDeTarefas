@@ -9,7 +9,6 @@ Projeto simples para organizar tarefas: adicionar, marcar como concluídas e rem
 
 ## 🚀 Como usar
 1. Clonar o repositório:
-```bash
+bash
 git clone https://github.com/GabrielCardossso/ListaDeTarefas.git
-
 2. Abrir 'tarefas.html' no navegador
